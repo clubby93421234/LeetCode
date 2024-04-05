@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -127,17 +127,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="addTwoNumbers.h" />
+    <ClInclude Include="CombinationSumIII.h" />
+    <ClInclude Include="DungeonGame.h" />
+    <ClInclude Include="HouseRobberII.h" />
+    <ClInclude Include="InsertInterval.h" />
     <ClInclude Include="Maximum_Subarray.h" />
+    <ClInclude Include="MergeIntervals.h" />
     <ClInclude Include="MergekSortedLists.h" />
     <ClInclude Include="Palindrome_Number.h" />
     <ClInclude Include="Roman_to_Integer.h" />
+    <ClInclude Include="SmallCalculator.h" />
     <ClInclude Include="Two_Sum.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="addTwoNumbers.cpp" />
+    <ClCompile Include="CombinationSumIII.cpp" />
+    <ClCompile Include="DungeonGame.cpp" />
+    <ClCompile Include="HouseRobberII.cpp" />
+    <ClCompile Include="InsertInterval.cpp" />
     <ClCompile Include="Maximum_Subarray.cpp" />
+    <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="MergekSortedLists.cpp" />
     <ClCompile Include="Palindrome_Number.cpp" />
     <ClCompile Include="Roman_to_Integer.cpp" />
+    <ClCompile Include="SmallCalculator.cpp" />
     <ClCompile Include="Two_Sum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
