@@ -51,6 +51,21 @@
     <ClInclude Include="SmallCalculator.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="IndexofFirstOccurence.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubsting.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleNumber.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MedianSortedArrays.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="longestCommonPrefix.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Two_Sum.cpp">
@@ -87,6 +102,24 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="SmallCalculator.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexofFirstOccurence.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubsting.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleNumber.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MedianSortedArrays.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="longestCommonPrefix.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>

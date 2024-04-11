@@ -131,12 +131,17 @@
     <ClInclude Include="CombinationSumIII.h" />
     <ClInclude Include="DungeonGame.h" />
     <ClInclude Include="HouseRobberII.h" />
+    <ClInclude Include="IndexofFirstOccurence.h" />
     <ClInclude Include="InsertInterval.h" />
+    <ClInclude Include="longestCommonPrefix.h" />
+    <ClInclude Include="LongestSubsting.h" />
     <ClInclude Include="Maximum_Subarray.h" />
+    <ClInclude Include="MedianSortedArrays.h" />
     <ClInclude Include="MergeIntervals.h" />
     <ClInclude Include="MergekSortedLists.h" />
     <ClInclude Include="Palindrome_Number.h" />
     <ClInclude Include="Roman_to_Integer.h" />
+    <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SmallCalculator.h" />
     <ClInclude Include="Two_Sum.h" />
   </ItemGroup>
@@ -145,12 +150,18 @@
     <ClCompile Include="CombinationSumIII.cpp" />
     <ClCompile Include="DungeonGame.cpp" />
     <ClCompile Include="HouseRobberII.cpp" />
+    <ClCompile Include="IndexofFirstOccurence.cpp" />
     <ClCompile Include="InsertInterval.cpp" />
+    <ClCompile Include="longestCommonPrefix.cpp" />
+    <ClCompile Include="LongestSubsting.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Maximum_Subarray.cpp" />
+    <ClCompile Include="MedianSortedArrays.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="MergekSortedLists.cpp" />
     <ClCompile Include="Palindrome_Number.cpp" />
     <ClCompile Include="Roman_to_Integer.cpp" />
+    <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SmallCalculator.cpp" />
     <ClCompile Include="Two_Sum.cpp" />
   </ItemGroup>
